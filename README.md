@@ -1,6 +1,7 @@
 # arduino488
 homeassistant+ESPNOW<BR>
 ![488-1_bb](https://user-images.githubusercontent.com/106683637/171434047-9e906fe8-15ac-4aa6-9811-78eab4331291.jpg)
+https://youtu.be/yDNLyEdO9e4<BR>
 (Machine translation)<BR>
 How to use ESPNOW in conjunction with Home Assistant! (Research Topic)
 This episode is about Nokanda's home assistant!
