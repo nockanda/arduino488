@@ -1,0 +1,13 @@
+#include <ESP8266WiFi.h>
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  Serial.print("나의 맥어드레스 =");
+  Serial.println(WiFi.macAddress());
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
