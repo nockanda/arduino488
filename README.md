@@ -40,8 +40,8 @@ MAC어드레스출력(469-1)
   
 (Machine translation)<BR>
 How to use ESPNOW in conjunction with Home Assistant! (Research Topic)
-This episode is about Nokanda's home assistant!
-Recently, Nokanda made an example of configuring a mesh network with ESPNOW!
+This episode is about Nockanda's home assistant!
+Recently, Nockanda made an example of configuring a mesh network with ESPNOW!
 Let's try to connect the Internet-connected board to the home assistant in the mesh network!
 
 First of all, you can think of espnow as being used to collect sensor values ​​that are outside the connection range of the router!
